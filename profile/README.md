@@ -1,4 +1,4 @@
-We focus on the applications of blockchain in the following aspects:
+We concern about the applications of blockchain in the following aspects:
 
 - Finance: interbank settlement, exchange, deposit management
 - Health: medical record management, drug delivery, clinical research
