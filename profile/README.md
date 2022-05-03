@@ -1,4 +1,4 @@
-We concern about the applications of blockchain in the following aspects:
+We are constantly iterating, solving problems and working together to connect people all over the world. We have a responsibility to promote the applications of blockchain in the following aspects:
 
 - Finance: interbank settlement, exchange, deposit management
 - Health: medical record management, drug delivery, clinical research
